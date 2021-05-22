@@ -1,6 +1,12 @@
 Changelog for Survival eXtreme Collection
 =========================================
 
+0.2.129+vision
+-------
+
+* Beginning of the Wesnoth 1.16 branch
+* Allow upgrading vision in the shop
+
 0.2.129
 -------
 
