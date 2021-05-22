@@ -6,6 +6,8 @@ This is an add-on for the game [Wesnoth](https://www.wesnoth.org/).
 
 As of 0.2.121, the `master` branch is for Wesnoth 1.14.
 
+Beginning with 0.2.129, the `next` branch is for Wesnoth 1.16.
+
 In-game description (for the add-ons server)
 --------------------------------------------
 
